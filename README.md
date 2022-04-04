@@ -10,7 +10,7 @@ To get started, pull the executable binary from GitHub and extract the zipped fi
 
 Once done, open Cassey CLI.
 
-## DISCLAIMER: The CLI will return nothing if you run it without any argument
+#### DISCLAIMER: The CLI will return nothing if you run it without any argument
 
 Run help command using `Cassey --help` to get to know about more commands, the commands and flags are self-explanatory.
 
@@ -26,6 +26,6 @@ There are certain flags you can use:
 
 Other commands under development:
 
-- _** The sub-command `-t` tests your connection according to the platform **_
-- _** The sub-commmand `-T` to run your test cases (Jest only) **_
-- \__** The sub-command `-m` to migrate your models **_
+- *The sub-command `-t` tests your connection according to the platform*
+- *The sub-commmand `-T` to run your test cases (Jest only) *
+- *The sub-command `-m` to migrate your models*
