@@ -26,6 +26,6 @@ There are certain flags you can use:
 
 Other commands under development:
 
-- _The sub-command `-t` tests your connection according to the platform_
-- _The sub-commmand `-T` to run your test cases (Jest only)_
-- _The sub-command `-m` to migrate your models_
+- *The sub-command `-t` tests your connection according to the platform*
+- *The sub-commmand `-T` to run your test cases (JS only)*
+- *The sub-command `-m` to migrate your models*
